@@ -1,0 +1,10 @@
+**/__pycache__/
+/.idea/
+*.csv#
+*.log
+*.ods#
+*.csv
+*.directory
+/venv/
+/Engine/credentials.py
+*.db
